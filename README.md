@@ -53,7 +53,8 @@ Customer-level sales performance comparing net sales across **2022, 2023, and 20
 - Which customers contribute the most to net sales?
 - Which customers experienced strong growth?
 - Which customers may require further investigation?
-![Customer Net Sales Performance](images/customer-net-sales-performance.png)
+![Customer Net Sales Performance](customer-net-sales-performance1.jpg)
+![Customer Net Sales Performance](customer-net-sales-performance2.jpg)
  
 ---
  
@@ -66,7 +67,7 @@ Market/country-level performance comparing actual 2024 net sales against the 202
 - Market-level comparison
 Conditional formatting highlights markets furthest from target, making underperformance easy to spot.
  
-![Market Performance vs Target](images/market-performance-vs-target.png)
+![Market Performance vs Target](market-performance-vs-target.jpg)
  
 ---
  
@@ -81,7 +82,7 @@ Changes in gross margin
 Periods of stronger/weaker profitability
 Differences in performance across divisions
 
-![P&L by Fiscal Months](images/pl-by-fiscal-division.png)
+![P&L by Fiscal Years (by Division)](pl-by-fiscal-division.jpg)
  
 ---
  
@@ -90,7 +91,7 @@ Differences in performance across divisions
 
 Quarter-level Profit & Loss summary within each fiscal year — a higher-level view of Net Sales, COGS, Gross Margin, Gross Margin %, and YoY performance.
  
-![P&L by Fiscal Years](images/pl-by-fiscal-years.png)
+![P&L by Fiscal Years](pl-by-fiscal-years.jpg)
  
 ---
  
