@@ -70,7 +70,7 @@ Conditional formatting highlights markets furthest from target, making underperf
  
 ---
  
-### 3. P&L by Fiscal Months
+### 3. P&L by Fiscal years ( For Division)
 
 Division-level Profit & Loss report at the fiscal-year level, tracking Net Sales, COGS, Gross Margin, and Gross Margin %.
 
@@ -81,11 +81,11 @@ Changes in gross margin
 Periods of stronger/weaker profitability
 Differences in performance across divisions
 
-![P&L by Fiscal Months](images/pl-by-fiscal-months.png)
+![P&L by Fiscal Months](images/pl-by-fiscal-division.png)
  
 ---
  
-### 4. P&L by Fiscal Years
+### 4. P&L by Fiscal Years ( Quarter Level)
 
 
 Quarter-level Profit & Loss summary within each fiscal year — a higher-level view of Net Sales, COGS, Gross Margin, Gross Margin %, and YoY performance.
